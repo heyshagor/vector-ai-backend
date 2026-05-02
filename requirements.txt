@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+groq
+httpx
+vtracer
+Pillow
+python-dotenv
